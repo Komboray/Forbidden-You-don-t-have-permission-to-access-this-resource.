@@ -2,9 +2,8 @@
 This is a solution for the forbidden error in php my admin server after you try to login a user and save their password with username into the database
 
 //This is the error that you get
-![Screenshot (48)](https://github.com/Komboray/Forbidden-You-don-t-have-permission-to-access-this-resource./assets/121002402/b74ccaf4-0999-48ca-9d05-57deaf18bb66)
 
-
+![Screenshot (49)](https://github.com/Komboray/Forbidden-You-don-t-have-permission-to-access-this-resource./assets/121002402/2d22012b-b891-4366-8047-7f6a0dfde386)
 
 //How to solve the problem
  1. On the xampp panel, stop all the processes that are running
